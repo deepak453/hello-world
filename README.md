@@ -2,5 +2,5 @@
 #include<stdio.h>
 void main()
 {
-printf("Hello world git hub")
+printf("Hello world git hub repos")
 }
